@@ -22,7 +22,7 @@ Password="admin"
 Database Used: Sqllite
 There are two ways to do it.
 1- Use test.db file as it is.
-2- Use the api to load the data either from Swagger UI or hit the below link after running main.py http://127.0.0.1:8000/loadDatabase.
+2- Use the api to load the data either from Swagger UI(http://127.0.0.1:8000/docs) or hit the below link after running main.py http://127.0.0.1:8000/loadDatabase.
 
 #for testing
-Use Swagger UI to perform different operations.
+Use Swagger UI(http://127.0.0.1:8000/docs) to perform different operations.
